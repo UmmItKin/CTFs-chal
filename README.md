@@ -6,8 +6,8 @@ Welcome to my collection of CTF (Capture The Flag) challenges! This repository c
 
 | Competition | Category | Challenge Name | Difficulty | Description |
 |-------------|----------|----------------|------------|-------------|
-| **No Hack No CTF 2025** | Misc/Forensics | [Crackme](NHNC/Misc/Crackme/) | ⭐⭐ | Virtual machine cracking challenge - Break into the custom VM and find the flag |
-| **No Hack No CTF 2025** | Misc/Devops | [gitgit](NHNC/Misc/gitgit/) | ⭐ | Git repository forensics - Find hidden sensitive information in a public GitHub repo |
+| **No Hack No CTF 2025** | Misc/Forensics | [Crackme](https://github.com/UmmItKin/NHNC-Crackme) | ⭐⭐ | Virtual machine cracking challenge - Break into the custom VM and find the flag |
+| **No Hack No CTF 2025** | Misc/Devops | [gitgit](https://github.com/UmmItKin/NHNC-gitgit) | ⭐ | Git repository forensics - Find hidden sensitive information in a public GitHub repo |
 
 ## Challenge Categories
 
