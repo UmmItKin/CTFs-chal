@@ -1,0 +1,6 @@
+[submodule "NHNC/Misc/Crackme"]
+	path = NHNC/Misc/Crackme
+	url = https://github.com/UmmItC/NHNC-Crackme
+[submodule "NHNC/Misc/gitgit"]
+	path = NHNC/Misc/gitgit
+	url = https://github.com/UmmItC/NHNC-gitgit
